@@ -10,7 +10,6 @@ function App() {
         <a href="/">Projects</a>
         <a href="/">About</a>
         <a href="/">Contact</a>
-        <a href="/">Contact</a>
         <DarkMode />
       </nav>
       <h1>Dark Mode</h1>
